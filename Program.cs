@@ -25,13 +25,13 @@ class Solution
     {
         int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, };
         int target = 10;
-        int ans = Liniarsearch(arr,target);
+        int ans = Liniearsearch(arr,target);
         Console.WriteLine(ans);
         Console.ReadKey();
        
     }
 
-    static int Liniarsearch(int[] arr, int target)
+    static int Liniearsearch(int[] arr, int target)
     {
         if (arr.Length == 0)
         {

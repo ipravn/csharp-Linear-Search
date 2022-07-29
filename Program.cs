@@ -1,4 +1,5 @@
 // Linear Search Algorithm Using C#
+// Praveen Kumar - https://github.com/ipravn/
 
 
 
